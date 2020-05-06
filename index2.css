@@ -1,0 +1,240 @@
+*{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none
+}
+
+.header1 h1{
+    position: relative;
+    font-family: serif;
+    font-size: 80px;
+    top: 40px
+}
+
+.header1 p{
+    position: relative;
+    top: 60px;
+}
+.header1 li{
+    display: inline;
+    border-right: 1px solid white;
+    padding: 10px 12px;
+    font-size: 25px;
+}
+.header1 input{
+    width: 130px;
+    height: 40px;
+    background-color: transparent;
+    font-size: 20px;
+    border-radius: 10px;    
+}
+header{
+    background-color: rgb(61, 166, 236);
+    border: 2px solid black;
+    text-align: center;
+    
+}
+.header1{
+    width   : 30%;
+    height: 150px;
+    display: inline-block;
+   }
+
+
+
+main{
+    margin: 0px auto;
+    width: 100%;
+    
+}
+.section-h1{
+    display: inline-block;
+    
+    position: relative;
+    top: 30px;
+    left: 100px;
+    position: relative;
+}
+.section-p{
+    position: relative;
+    top: 40px;
+    
+
+}
+nav{
+    background-color: darkblue;
+    padding: 20px 20px;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+
+}
+.navig li{
+    display: inline;
+    list-style: none;
+    font-size: 20px;
+    margin-left: 150px;
+    padding-left: 30px;
+    padding-right: 10px;
+    border-right: 1px solid white;
+}
+
+figure{
+    height: 600px;
+    background-image: url("https://raw.githubusercontent.com/techkaro-circle/tk-class02-task/master/mockup/Main%20Page%20Image.PNG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.acade{
+    position: relative;
+    border: 1px solid red;
+    color: white;
+
+}
+
+.make{
+    background-color: rgba(84, 177, 22, 0.932);
+    width: 95%;
+    position: relative;
+    margin: 20px 20px;
+    padding: 20px 20px;
+    z-index : 0;
+}
+
+.make h1{
+    display: inline-block;
+    font-size: 59px;
+    position: relative;
+    top: 21px;
+}
+
+.make p{
+    align-content: center;
+    
+    width: 65%;
+    position: relative;
+    bottom: 50px;
+    font-size: 30px;
+    left: 655px;
+
+}
+.programs{
+    background-color: lightskyblue;
+    width: 15%;
+    display: table-cell;
+    height: 320px;
+    border-left: 18px solid white;
+    border-right: 25px solid white;
+    
+}
+.programs h1{
+    margin: 0 auto;
+    font-size: 40px;
+    color: rgba(54, 51, 255, 0.87);
+    
+}
+.programs p{
+    display: table-cell;
+    font-size: 25px;
+    padding: 20px 20px;
+    color: rgb(228, 228, 228);
+
+}
+.explore{
+    display: table-cell;
+}
+
+.research{
+    background-color: rgba(116, 2, 116, 0.89);
+    width: 34%;
+    height: 350px;
+    border-left: 15px solid white;
+    border-right: 25px solid white;
+    display: inline-block;
+}
+.research h1{
+    padding: 20px 20px;
+    font-size: 40px;
+    display: inline-block
+}
+.pride{
+    background-color: rgb(70, 166, 236);
+    width: 31.5%;
+    height: 350px;
+    border-left: 18px solid white;
+    border-right: 25px solid white;
+    display: inline-block;
+
+}
+.calender{
+    background-color: purple;
+    width: 24%;
+    display: inline-block;
+    margin-left: 50px;   
+}
+.button-section{
+    color: turquoise;
+    width: 280px;
+    height: 50px;
+    font-size: 18px;
+    background-color: white;
+    margin-left: 120px;
+    border-radius: 5px;
+    border-color: turquoise;
+}
+footer{
+    background-color: rgb(78, 78, 78);
+    padding-top: 30px;
+}
+.footer-1{
+    width: 100%;
+}
+
+.footer-child{
+    display: table-cell;
+    width: 28%;
+    height:200px;
+        
+}
+
+
+.footer-child li{
+    list-style: none;
+    color: lightgrey;
+    padding-top: 5px;
+    font-size: 15px;
+    padding-left: 20px;
+    font: outline;
+
+}
+.footer-para-h{
+    font-size: 25px;
+    padding: 20px 20px;
+}
+#dc li{
+    font-size: 25px;
+    padding-top: 20px;
+}
+.footer-child-sub{
+    position: relative;
+    top: 40px;
+}
+.footer-2{
+    width: 90%;
+    height: 500px;
+    text-align: center;
+    position: relative;
+    top: 110px;
+    margin: 0px auto;
+}
+.footer-2 p{
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 20px;
+}    

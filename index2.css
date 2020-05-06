@@ -23,7 +23,8 @@ a{
     display: inline;
     border-right: 1px solid white;
     padding: 10px 12px;
-    font-size: 25px;
+    font-size: 15px;
+    
 }
 .header1 input{
     width: 130px;
@@ -77,7 +78,7 @@ nav{
     display: inline;
     list-style: none;
     font-size: 20px;
-    margin-left: 150px;
+    margin-left: 58px;
     padding-left: 30px;
     padding-right: 10px;
     border-right: 1px solid white;
@@ -102,7 +103,7 @@ figure{
     background-color: rgba(84, 177, 22, 0.932);
     width: 95%;
     position: relative;
-    margin: 20px 20px;
+    margin: 10px 20px;
     padding: 20px 20px;
     z-index : 0;
 }
@@ -111,7 +112,7 @@ figure{
     display: inline-block;
     font-size: 59px;
     position: relative;
-    top: 21px;
+    top: 48px;
 }
 
 .make p{
@@ -176,15 +177,15 @@ figure{
     background-color: purple;
     width: 24%;
     display: inline-block;
-    margin-left: 50px;   
+    margin-left: 40px;   
 }
 .button-section{
     color: turquoise;
-    width: 280px;
+    width: 250px;
     height: 50px;
     font-size: 18px;
     background-color: white;
-    margin-left: 120px;
+    margin-left: 60px;
     border-radius: 5px;
     border-color: turquoise;
 }
